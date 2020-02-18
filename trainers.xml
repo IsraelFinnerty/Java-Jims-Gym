@@ -1,0 +1,25 @@
+<object-stream>
+  <list>
+    <Trainer>
+      <name>Jim</name>
+      <email>jim@gym.com</email>
+      <address>Jims Gym</address>
+      <gender>M</gender>
+      <speciality>Everything</speciality>
+    </Trainer>
+    <Trainer>
+      <name>Employee1</name>
+      <email>employee@gym.com</email>
+      <address>Galapaogos Islands</address>
+      <gender>Unspecified</gender>
+      <speciality>Not Much</speciality>
+    </Trainer>
+    <Trainer>
+      <name>Employee2</name>
+      <email>employee2@gym.com</email>
+      <address>Behind You!</address>
+      <gender>F</gender>
+      <speciality>Abs</speciality>
+    </Trainer>
+  </list>
+</object-stream>

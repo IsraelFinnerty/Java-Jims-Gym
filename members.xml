@@ -1,0 +1,144 @@
+<object-stream>
+  <list>
+    <PremiumMember>
+      <name>Jason</name>
+      <email>jason@example.com</email>
+      <address>ballyduff</address>
+      <gender>M</gender>
+      <height>1.8</height>
+      <startWeight>80.0</startWeight>
+      <idealWeight>false</idealWeight>
+      <assessmentRequested>true</assessmentRequested>
+      <assessments>
+        <entry>
+          <string>19/05/01</string>
+          <Assessment>
+            <weight>79.0</weight>
+            <thigh>34.0</thigh>
+            <waist>45.0</waist>
+            <comment>fat</comment>
+            <personalTrainer>a</personalTrainer>
+            <weightTrend>true</weightTrend>
+            <waistTrend>true</waistTrend>
+          </Assessment>
+        </entry>
+      </assessments>
+      <packages>
+        <entry>
+          <string>Package 3</string>
+          <string>Allowed access to gym at off-peak times. | €5 fee for all classes. | No access to deluxe changing rooms.</string>
+        </entry>
+        <entry>
+          <string>Harvard</string>
+          <string>Allowed access to gym during term time. | €4 fee for all classes. | No access to deluxe changing rooms.</string>
+        </entry>
+        <entry>
+          <string>Package 2</string>
+          <string>Allowed access anytime to gym. | €3 fee for all classes. | Access to all changing areas including deluxe changing rooms.</string>
+        </entry>
+        <entry>
+          <string>WIT</string>
+          <string>Allowed access to gym during term time. | €4 fee for all classes. | No access to deluxe changing rooms.</string>
+        </entry>
+        <entry>
+          <string>Package 1</string>
+          <string>Allowed access anytime to gym. | Free access to all classes. | Access to all changing areas including deluxe changing rooms.</string>
+        </entry>
+      </packages>
+      <messages/>
+      <chosenPackage>Package 1</chosenPackage>
+    </PremiumMember>
+    <StudentMember>
+      <name>Joe</name>
+      <email>joe@bloggs.ie</email>
+      <address>Joe Street</address>
+      <gender>M</gender>
+      <height>1.4</height>
+      <startWeight>95.0</startWeight>
+      <idealWeight>false</idealWeight>
+      <assessmentRequested>false</assessmentRequested>
+      <assessments/>
+      <packages>
+        <entry>
+          <string>Package 3</string>
+          <string>Allowed access to gym at off-peak times. | €5 fee for all classes. | No access to deluxe changing rooms.</string>
+        </entry>
+        <entry>
+          <string>Harvard</string>
+          <string>Allowed access to gym during term time. | €4 fee for all classes. | No access to deluxe changing rooms.</string>
+        </entry>
+        <entry>
+          <string>Package 2</string>
+          <string>Allowed access anytime to gym. | €3 fee for all classes. | Access to all changing areas including deluxe changing rooms.</string>
+        </entry>
+        <entry>
+          <string>WIT</string>
+          <string>Allowed access to gym during term time. | €4 fee for all classes. | No access to deluxe changing rooms.</string>
+        </entry>
+        <entry>
+          <string>Package 1</string>
+          <string>Allowed access anytime to gym. | Free access to all classes. | Access to all changing areas including deluxe changing rooms.</string>
+        </entry>
+      </packages>
+      <messages>
+        <Message>
+          <date>19/05/19</date>
+          <message>Hi Joe, would you like an assessment next Tuesday at 11am?</message>
+          <trainerName>Jim</trainerName>
+          <read>false</read>
+        </Message>
+      </messages>
+      <studentId>2002002002</studentId>
+      <collegeName>WIT</collegeName>
+      <chosenPackage>WIT</chosenPackage>
+    </StudentMember>
+    <PremiumMember>
+      <name>Kim Kardashian</name>
+      <email>kim@kardashian.com</email>
+      <address>Beverly Hills</address>
+      <gender>F</gender>
+      <height>1.5</height>
+      <startWeight>40.0</startWeight>
+      <idealWeight>false</idealWeight>
+      <assessmentRequested>false</assessmentRequested>
+      <assessments>
+        <entry>
+          <string>19/05/18</string>
+          <Assessment>
+            <weight>35.0</weight>
+            <thigh>40.0</thigh>
+            <waist>12.0</waist>
+            <comment>Too Skinny</comment>
+            <personalTrainer>a</personalTrainer>
+            <weightTrend>true</weightTrend>
+            <waistTrend>true</waistTrend>
+          </Assessment>
+        </entry>
+      </assessments>
+      <packages>
+        <entry>
+          <string>Package 3</string>
+          <string>Allowed access to gym at off-peak times. | €5 fee for all classes. | No access to deluxe changing rooms.</string>
+        </entry>
+        <entry>
+          <string>Harvard</string>
+          <string>Allowed access to gym during term time. | €4 fee for all classes. | No access to deluxe changing rooms.</string>
+        </entry>
+        <entry>
+          <string>Package 2</string>
+          <string>Allowed access anytime to gym. | €3 fee for all classes. | Access to all changing areas including deluxe changing rooms.</string>
+        </entry>
+        <entry>
+          <string>WIT</string>
+          <string>Allowed access to gym during term time. | €4 fee for all classes. | No access to deluxe changing rooms.</string>
+        </entry>
+        <entry>
+          <string>Package 1</string>
+          <string>Allowed access anytime to gym. | Free access to all classes. | Access to all changing areas including deluxe changing rooms.</string>
+        </entry>
+      </packages>
+      <messages/>
+      <chosenPackage>Package 1</chosenPackage>
+    </PremiumMember>
+  </list>
+</object-stream>
